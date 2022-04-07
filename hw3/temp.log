@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.4.6)  6 APR 2022 23:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.4.6)  6 APR 2022 23:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**computer-history.tex
-(./computer-history.tex
+**temp.tex
+(./temp.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -296,8 +296,8 @@ File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count199
 \l__pdf_internal_box=\box91
 )
-(./computer-history.aux)
-\openout1 = `computer-history.aux'.
+(./temp.aux)
+\openout1 = `temp.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
 LaTeX Font Info:    ... okay on input line 73.
@@ -317,8 +317,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
 LaTeX Font Info:    ... okay on input line 73.
 LaTeX Font Info:    Trying to load font information for T1+ppl on input line 73
 .
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ppl.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 )
 \big@size=\dimen158
@@ -349,9 +348,9 @@ LaTeX Info: Redefining \ref on input line 73.
 LaTeX Info: Redefining \pageref on input line 73.
 LaTeX Info: Redefining \nameref on input line 73.
 
-(./computer-history.out) (./computer-history.out)
+(./temp.out) (./temp.out)
 \@outlinefile=\write3
-\openout3 = `computer-history.out'.
+\openout3 = `temp.out'.
 
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -439,7 +438,7 @@ LaTeX Font Info:    Trying to load font information for OT1+zplm on input line
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
-<./images/AI.jpeg, id=24, 319.1925pt x 159.59625pt>
+<./images/AI.jpeg, id=28, 319.1925pt x 159.59625pt>
 File: ./images/AI.jpeg Graphic file (type jpg)
 <use ./images/AI.jpeg>
 Package pdftex.def Info: ./images/AI.jpeg  used on input line 117.
@@ -448,38 +447,44 @@ Package pdftex.def Info: ./images/AI.jpeg  used on input line 117.
 
 
  <./images/AI.jpeg>]
-No file computer-history.bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 139.
+No file temp.bbl.
+
+Overfull \hbox (142.7634pt too wide) in paragraph at lines 137--139
+[]\T1/ppl/m/n/10.95 ComputerHistory.org -https://www.computerhistory.org/revolu
+tion/artificial-
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 141.
 [2
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 139.
- (./computer-history.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 139.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 139.
-Package rerunfilecheck Info: File `computer-history.out' has not changed.
-(rerunfilecheck)             Checksum: 63C36CAB241DAE95852280C57F198892;270.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 141.
+ (./temp.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 141.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 141.
+Package rerunfilecheck Info: File `temp.out' has not changed.
+(rerunfilecheck)             Checksum: AD96B875F372F13695C64B3A2D5A9225;329.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 139.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 141.
  ) 
 Here is how much of TeX's memory you used:
- 6363 strings out of 483183
- 95838 string characters out of 5966293
- 357644 words of memory out of 5000000
- 21249 multiletter control sequences out of 15000+600000
+ 6365 strings out of 483183
+ 95676 string characters out of 5966293
+ 357595 words of memory out of 5000000
+ 21250 multiletter control sequences out of 15000+600000
  547724 words of font info for 52 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 34i,11n,45p,221b,320s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,11n,45p,351b,320s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on computer-history.pdf (2 pages, 49410 bytes).
+Output written on temp.pdf (2 pages, 49274 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
- 43 compressed objects within 1 object stream
- 9 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 55 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
+ 10 named destinations out of 1000 (max. 500000)
+ 54 words of extra memory for PDF output out of 10000 (max. 10000000)
 
