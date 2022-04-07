@@ -1,0 +1,107 @@
+commit 7ac46d5a58f9443712ddd0453ec6fdfa9d8e8d88
+Author: Ceryus84 <aidan008@live.com>
+Date:   Thu Apr 7 00:09:26 2022 -0600
+
+    Finishing touches are being added.
+
+commit a3fc1a6baa8b552d971dbdf0e899d308465b4748
+Author: Ceryus84 <aidan008@live.com>
+Date:   Wed Apr 6 23:56:47 2022 -0600
+
+    Cleaning some stuff up and renaming it.
+
+commit f24e6a4854d13147740c3caeb2b705c83723b997
+Author: Ceryus84 <61030434+Ceryus84@users.noreply.github.com>
+Date:   Wed Apr 6 23:54:54 2022 -0600
+
+    Delete computer-history.pdf
+
+commit 726ebe1d6a8068710bca9a4652b2ead9ab8ec2b3
+Author: Ceryus84 <61030434+Ceryus84@users.noreply.github.com>
+Date:   Wed Apr 6 23:54:11 2022 -0600
+
+    Delete temp.pdf
+
+commit aafcf21b3e9ed88181d24aadd707501512ff5904
+Author: Ceryus84 <61030434+Ceryus84@users.noreply.github.com>
+Date:   Wed Apr 6 23:53:36 2022 -0600
+
+    Rename temp.tex to computer-history.tex
+
+commit 4089aca9f0de1274bdc175a0500671d421988bd4
+Author: Ceryus84 <aidan008@live.com>
+Date:   Wed Apr 6 23:49:41 2022 -0600
+
+    Fixed \begin issue and somehow merged .tex files successfully.
+
+commit 87cf86a0ac804fed8937e390f2f5581cffadb577
+Merge: d137049 330b5a0
+Author: Ceryus84 <aidan008@live.com>
+Date:   Wed Apr 6 23:33:11 2022 -0600
+
+    Renamed files so they wouldn't overwrite.
+
+commit d137049daf88d41cdcd773215031ecd935395415
+Author: Ceryus84 <aidan008@live.com>
+Date:   Wed Apr 6 23:30:47 2022 -0600
+
+    Renamed files so they wouldn't overwrite.
+
+commit 47d4012d4b28fe114fefa2c5e6d8b6d841407de8
+Author: Ceryus84 <aidan008@live.com>
+Date:   Wed Apr 6 23:25:29 2022 -0600
+
+    Commiting changes to hw3 directory and computer-history.tex and computer-history.pdfand a .aux and .log files.
+
+commit f9205af0b41ea6453cb86d7a9842ce0cfb54a2b1
+Author: Ceryus84 <61030434+Ceryus84@users.noreply.github.com>
+Date:   Wed Apr 6 17:28:16 2022 -0600
+
+    Deleting hw3-template.tex
+
+commit 3cfcf52a68723924a6bcea1ed90f866141ccede4
+Author: Ceryus84 <61030434+Ceryus84@users.noreply.github.com>
+Date:   Wed Apr 6 17:27:50 2022 -0600
+
+    Removing hw3-template.pdf
+
+commit 44a78b2ccd160f07a98365033862387a4197e69e
+Author: Ceryus84 <aidan008@live.com>
+Date:   Wed Apr 6 17:26:42 2022 -0600
+
+    I forgot to send the pdf
+
+commit 48cf316bfe6c48c83a90d66c49c09664b19fdbf4
+Author: Ceryus84 <aidan008@live.com>
+Date:   Wed Apr 6 17:24:48 2022 -0600
+
+    I renamed the tex and pdf files to what they should be named.
+
+commit 06bc009d31250e16a70b291e8c320f631c713dd4
+Author: Ceryus84 <61030434+Ceryus84@users.noreply.github.com>
+Date:   Wed Apr 6 14:51:07 2022 -0600
+
+    Delete test.txt
+    
+    Test worked, no longer needed.
+
+commit 36c356b9b30323ced4fd14c7b1110df5a4276b32
+Merge: 3758e36 8da98b7
+Author: Ceryus84 <61030434+Ceryus84@users.noreply.github.com>
+Date:   Wed Apr 6 14:48:18 2022 -0600
+
+    Merge pull request #1 from Ceryus84/master
+    
+    test.txt testing file
+
+commit 8da98b75d602e0b718a3f83255b55f2fe5459aea
+Author: Ceryus84 <aidan008@live.com>
+Date:   Wed Apr 6 14:36:20 2022 -0600
+
+    test.txt testing file
+
+commit 3758e36a8b04541c778b6c627e822cb1477203af
+Author: Ceryus84 <61030434+Ceryus84@users.noreply.github.com>
+Date:   Wed Apr 6 14:21:36 2022 -0600
+
+    Initial commit
