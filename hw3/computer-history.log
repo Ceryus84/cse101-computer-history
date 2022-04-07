@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.4.6)  6 APR 2022 23:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.4.6)  7 APR 2022 00:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -450,45 +450,70 @@ Package pdftex.def Info: ./images/AI.jpeg  used on input line 117.
  <./images/AI.jpeg>]
 No file computer-history.bbl.
 
-Overfull \hbox (142.7634pt too wide) in paragraph at lines 141--143
+Overfull \hbox (142.7634pt too wide) in paragraph at lines 145--147
 []\T1/ppl/m/n/10.95 ComputerHistory.org -https://www.computerhistory.org/revolu
 tion/artificial-
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 145.
+
+Overfull \hbox (113.41862pt too wide) in paragraph at lines 148--150
+[]\T1/ppl/m/n/10.95 Towardsdatascience.com -https://towardsdatascience.com/intr
+oduction-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--150
+\T1/ppl/m/n/10.95 to-genetic-algorithms-including-example-code-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--153
+[]\T1/ppl/m/n/10.95 Amazon -https://aws.amazon.com/deep-
+ []
+
+
+Overfull \hbox (324.65346pt too wide) in paragraph at lines 151--153
+\T1/ppl/m/n/10.95 learning/?trk=789ac9f5-1112-439f-b79b-03c5a18c8e1a&sc_channel
+=ps&sc_campaign=acquisition&sc_medium=ACQ-
+ []
+
+
+Overfull \hbox (709.08188pt too wide) in paragraph at lines 151--153
+\T1/ppl/m/n/10.95 P|PS-GO|Non-Brand|Desktop|SU|Machine%20Learning|Deep%20Learni
+ng|US|EN|Text&s_kwcid=AL!4422!3!570578716758!e!!g!!neural%20network&ef_id=CjwKC
+Ajw9LSSBhBsEiwAKtf0n6-
+ []
+
+
+Overfull \hbox (495.22089pt too wide) in paragraph at lines 151--153
+\T1/ppl/m/n/10.95 _8-DeLr_yDBobakS_Js9Lp2o0kuKbDX0LUMwgeqTuOYW_w2EhUhoCLAUQAvD_
+BwE:G:s&s_kwcid=AL!4422!3!570578716758!e!!g!!neural%20network 
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 154.
 [2
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 145.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 154.
  (./computer-history.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 145.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 145.
-
-
-Package rerunfilecheck Warning: File `computer-history.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `computer-history.out':
-(rerunfilecheck)             Before: 8D45211A922E4FF6C348B0D416610BA3;694
-(rerunfilecheck)             After:  AD96B875F372F13695C64B3A2D5A9225;329.
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 145.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 154.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 154.
+Package rerunfilecheck Info: File `computer-history.out' has not changed.
+(rerunfilecheck)             Checksum: AD96B875F372F13695C64B3A2D5A9225;329.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 154.
  ) 
 Here is how much of TeX's memory you used:
- 6367 strings out of 483183
- 95890 string characters out of 5966293
- 357647 words of memory out of 5000000
- 21252 multiletter control sequences out of 15000+600000
+ 6365 strings out of 483183
+ 95868 string characters out of 5966293
+ 357655 words of memory out of 5000000
+ 21250 multiletter control sequences out of 15000+600000
  547724 words of font info for 52 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 34i,11n,45p,221b,320s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,11n,45p,478b,320s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on computer-history.pdf (2 pages, 49349 bytes).
+Output written on computer-history.pdf (2 pages, 52740 bytes).
 PDF statistics:
  55 PDF objects out of 1000 (max. 8388607)
  47 compressed objects within 1 object stream
